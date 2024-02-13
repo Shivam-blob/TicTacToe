@@ -54,5 +54,3 @@ def tictactoe():
         print('It\'s a Tie :(')
         
         
-input('\n' *5 + 'This is a game of Tic Tac Toe against a robot. (press enter to begin)\n>')   
-tictactoe()
